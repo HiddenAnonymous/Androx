@@ -2,9 +2,9 @@
 
 An ethical hacking couse for beginners.
 
-The full course of Androx will be available soon
-in an apk with a lot of subjects, tricks and an
-amazing hacker look.
+The course brings 10 subjects one of them is tricks,
+more subjects and tricks will be added to this 
+course in the next updates.
 
 # Installation
 
